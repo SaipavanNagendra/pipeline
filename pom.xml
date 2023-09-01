@@ -31,8 +31,8 @@
               
                 </sonar.host.url>
                  <sonar.token>sqp_01c09c07ddfd8e4552ade23a57474afa203de698</sonar.token> 
-<sonar.login>admin</sonar.login>
-<sonar.password>admin1</sonar.password>
+<!--sonar.login>admin</sonar.login>
+<sonar.password>admin1</sonar.password-->
 
                
             </properties>
